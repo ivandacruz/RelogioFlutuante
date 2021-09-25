@@ -1,3 +1,3 @@
 # RelogioFlutuante
 
-* Relógio feito em HTML5 e CSS3
+* Relógio feito em HTML5 e CSS3.
